@@ -2,6 +2,8 @@
 
 Project Name: Graduate Admission Prediction
 
+Link for Web App: https://mohneetkaur-graduate-admission-prediction-main-04y2tx.streamlit.app/
+
 Description:
 This project aims to develop a predictive model for graduate admission based on various factors such as GRE score, TOEFL score, university rating, statement of purpose (SOP), letter of recommendation (LOR), undergraduate GPA (CGPA), and research experience. The goal is to build a machine learning model that can accurately estimate the chances of admission for prospective graduate students.
 
