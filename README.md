@@ -7,6 +7,8 @@ Link for Web App: https://mohneetkaur-graduate-admission-prediction-main-04y2tx.
 Description:
 This project aims to develop a predictive model for graduate admission based on various factors such as GRE score, TOEFL score, university rating, statement of purpose (SOP), letter of recommendation (LOR), undergraduate GPA (CGPA), and research experience. The goal is to build a machine learning model that can accurately estimate the chances of admission for prospective graduate students.
 
+Dataset: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
+
 Key Features:
 - Data Exploration: Perform exploratory data analysis to understand the dataset and visualize the distributions of different variables.
 - Data Preprocessing: Handle missing values, encode categorical variables, and scale/normalize numerical features to prepare the data for modeling.
